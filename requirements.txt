@@ -1,0 +1,7 @@
+apache-beam
+apache-beam[gcp]
+tensorflow
+gensim==3.6.0
+fsspec==0.8.4
+gcsfs==0.7.1
+numpy==1.20.0
